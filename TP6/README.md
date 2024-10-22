@@ -22,6 +22,8 @@ Com este programa,criei um ficheiro "TURMA" que consiste numa turma com 5 alunos
 * Mariana|a102333|16.0|13.0|12.0
 * Diogo|a109654|20.0|12.0|13.0
 * Maria|a178333|12.0|14.0|15.0
+Este ficheiro está anexado na pasta TP6, junto com o programa criado e este README.
+
 
 Considerei a realização desta aplicação muito desafiadora e dinâmica, pois a sensação de ver os dados guardados e carregados corretamente num ficheiro dá realmente a impressão de que a aplicação "funciona de verdade". Esta foi uma função nova para mim, que gostei muito de implementar, embora inicialmente tenha demorado algum tempo a entender como funcionava, especialmente a parte de carregar a turma a partir de um ficheiro. Além disso, achei que a parte mais difícil, por mais incrível que pareça, foi garantir que, na opção 2, o programa não inserisse o aluno na turma se o ID já existisse ou se as notas fossem inválidas (ou seja, inferiores a 0 ou superiores a 20, conforme o intervalo definido). Para resolver esse problema, tive de usar condições e estruturas condicionais de forma cuidadosa. 
 
