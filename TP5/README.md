@@ -4,7 +4,7 @@
 
 ## Resumo
 
-O TP4 consistiu na criação de uma aplicação em Python para a gestão de um conjunto de salas de cinema de um centro comercial. Esta ferramenta foi desenvolvida com o propósito de incluir as seguintes funcionalidades: 
+O TP5 consistiu na criação de uma aplicação em Python para a gestão de um conjunto de salas de cinema de um centro comercial. Esta ferramenta foi desenvolvida com o propósito de incluir as seguintes funcionalidades: 
 * Listar filmes em exibição
 * Verificar disponibilidade de lugar
 * Vender bilhete 
