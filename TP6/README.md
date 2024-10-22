@@ -23,6 +23,7 @@ Com este programa,criei um ficheiro "TURMA" que consiste numa turma com 5 alunos
 * Mariana|a102333|16.0|13.0|12.0
 * Diogo|a109654|20.0|12.0|13.0
 * Maria|a178333|12.0|14.0|15.0
+  
 Este ficheiro está anexado na pasta TP6, junto com o programa criado e este README.
 
 
