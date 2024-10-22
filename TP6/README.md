@@ -12,6 +12,7 @@ O TP6 consistiu na criação de uma aplicação em Python para a gestão de alun
 * 5: Guardar a turma em ficheiro;
 * 6: Carregar uma turma dum ficheiro;
 * 0: Sair da aplicação
+  
 No fim de executar cada operação, a aplicação coloca novamente o menu e pede ao utilizador a opção para continuar. Além disso, foi considerado o seguinte modelo de dados:
 * aluno = (nome, id, [notaTPC, notaProj, notaTeste]) - um tuplo em que as notas do aluno são uma lista
 * turma = [aluno] - uma lista de tuplos
