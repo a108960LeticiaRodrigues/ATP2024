@@ -140,7 +140,7 @@ while op != 0:
     elif op == 2:
         ficheiro = input("Qual vai ser o nome do ficheiro?")
         guardaTabMeteo(tabMeteo1, ficheiro)
-        print("Ficheiro criado com sucesso")
+        print(f"Ficheiro {ficheiro} criado com sucesso")
 
     elif op == 3:
         print(carregaTabMeteo(ficheiro))
