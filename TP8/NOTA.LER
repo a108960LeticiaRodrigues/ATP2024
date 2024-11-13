@@ -1,0 +1,13 @@
+No exercicio TPC2, no a), em vez de fazer return contador, coloquei print(contador).
+Deveria ser:
+
+def strCount(s, subs):
+    contador = 0
+    i = 0
+    while i <= len(s) - len(subs):
+        if s[i: i + len(subs)] == subs:
+            contador = contador + 1
+            i = i + len(subs)
+        else:
+            i = i + 1
+    return contador
