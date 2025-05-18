@@ -1,0 +1,877 @@
+[
+    {
+        "campanha": "Vacinação contra a tuberculose",
+        "status": "Terminada",
+        "regiao": "Veldora",
+        "publico_alvo": [
+            "Presidiários"
+        ],
+        "localizacao": [
+            "Presídio de Veldora"
+        ],
+        "tipo": "Saúde - Tuberculose",
+        "data_inicio": "2025-01-15",
+        "data_fim": "2025-03-15",
+        "instituicao_responsavel": "Serviço Regional de Saúde de Veldora",
+        "responsaveis": [
+            {
+                "nome": "Dra. Mónica Sequeira",
+                "email": "monica.sequeira@saude.gov",
+                "telemóvel": 967827937
+            },
+            {
+                "nome": "Dr. Tiago Fernandes",
+                "email": "tiago.fernandes@saude.gov",
+                "telemóvel": 962418076
+            }
+        ],
+        "parceiros": [
+            "Organização Mundial da Saúde",
+            "Associação Veldora pela Saúde Pública"
+        ],
+        "vacinas_utilizadas": [
+            {
+                "vacina_utilizada": "BCG",
+                "número_disponível": 0
+            }
+        ],
+        "objetivos": [
+            "Reduzir a taxa de incidência da tuberculose em adultos",
+            "Aumentar a cobertura vacinal na população adulta de Veldora"
+        ],
+        "metodologia_divulgacao": [
+            "Campanhas nas redes sociais",
+            "Cartazes em centros de saúde e transportes públicos",
+            "Rádio local e SMS"
+        ],
+        "orcamento": {
+            "valor_total_eur": 150000,
+            "fontes_financiamento": [
+                "Governo Regional",
+                "Doações da OMS"
+            ]
+        },
+        "resultados_esperados": [
+            "Cobertura vacinal superior a 85%",
+            "Aumento de 30% no conhecimento da população sobre a tuberculose",
+            "Redução dos casos de tuberculose em adultos em 20% no prazo de um ano"
+        ],
+        "pacientes_vacinados": [
+            {
+                "nome_completo": "Joana Campos",
+                "data_nascimento": "2005-02-01",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "925749310",
+                "n_utente": "234543217",
+                "antecedentes": [
+                    "Presidiários"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-05-18"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Miguel Soares",
+                "data_nascimento": "1983-04-10",
+                "sexo": "Masculino",
+                "regiao": "Veldora",
+                "contacto": "930123456",
+                "n_utente": "234543218",
+                "antecedentes": [
+                    "Presidiários",
+                    "Fumantes crônicos"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-04-12"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Patrícia Ribeiro",
+                "data_nascimento": "1995-07-22",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "926987654",
+                "n_utente": "234543219",
+                "antecedentes": [
+                    "Presidiários",
+                    "Alcoólatras crónicos"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-03-15"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Carlos Menezes",
+                "data_nascimento": "1977-11-05",
+                "sexo": "Masculino",
+                "regiao": "Veldora",
+                "contacto": "927555444",
+                "n_utente": "234543220",
+                "antecedentes": [
+                    "Presidiários",
+                    "Contato direto com pacientes com tuberculose ativa"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-05-01"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Luciana Barros",
+                "data_nascimento": "1989-09-30",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "928333222",
+                "n_utente": "234543221",
+                "antecedentes": [
+                    "Presidiários",
+                    "Doença renal crônica"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-01-20"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Roberto Silva",
+                "data_nascimento": "1980-12-15",
+                "sexo": "Masculino",
+                "regiao": "Veldora",
+                "contacto": "924112233",
+                "n_utente": "234543222",
+                "antecedentes": [
+                    "Presidiários",
+                    "Fumantes crônicos",
+                    "Alcoólatras crónicos"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-05-10"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Ana Ferreira",
+                "data_nascimento": "1991-06-13",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "925111222",
+                "n_utente": "234543223",
+                "antecedentes": [
+                    "Presidiários",
+                    "Hipertensão arterial"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-05-15"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Jorge Batista",
+                "data_nascimento": "1976-03-19",
+                "sexo": "Masculino",
+                "regiao": "Veldora",
+                "contacto": "929888777",
+                "n_utente": "234543224",
+                "antecedentes": [
+                    "Presidiários"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-02-21"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Helena Duarte",
+                "data_nascimento": "1990-10-28",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "927654321",
+                "n_utente": "234543225",
+                "antecedentes": [
+                    "Presidiários",
+                    "Alcoólatras crónicos"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-03-30"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Fábio Costa",
+                "data_nascimento": "1984-08-11",
+                "sexo": "Masculino",
+                "regiao": "Veldora",
+                "contacto": "923223344",
+                "n_utente": "234543226",
+                "antecedentes": [
+                    "Presidiários",
+                    "Fumantes crônicos"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-04-19"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Marina Pires",
+                "data_nascimento": "1997-02-23",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "925555888",
+                "n_utente": "234543227",
+                "antecedentes": [
+                    "Presidiários",
+                    "Contato direto com pacientes com tuberculose ativa"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-05-17"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Ricardo Lima",
+                "data_nascimento": "1988-12-07",
+                "sexo": "Masculino",
+                "regiao": "Veldora",
+                "contacto": "921234567",
+                "n_utente": "234543228",
+                "antecedentes": [
+                    "Presidiários",
+                    "Diabetes tipo 2"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-04-27"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Gabriela Faria",
+                "data_nascimento": "1993-05-03",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "924884422",
+                "n_utente": "234543229",
+                "antecedentes": [
+                    "Presidiários"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-03-12"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Tiago Andrade",
+                "data_nascimento": "1978-01-15",
+                "sexo": "Masculino",
+                "regiao": "Veldora",
+                "contacto": "922456789",
+                "n_utente": "234543230",
+                "antecedentes": [
+                    "Presidiários",
+                    "Alcoólatras crónicos"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-05-03"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Beatriz Castro",
+                "data_nascimento": "1986-09-21",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "926444333",
+                "n_utente": "234543231",
+                "antecedentes": [
+                    "Presidiários",
+                    "Fumantes crônicos"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-04-25"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Samuel Borges",
+                "data_nascimento": "1979-07-05",
+                "sexo": "Masculino",
+                "regiao": "Veldora",
+                "contacto": "927777222",
+                "n_utente": "234543232",
+                "antecedentes": [
+                    "Presidiários",
+                    "Asma"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-03-22"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Cláudia Martins",
+                "data_nascimento": "1992-04-28",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "923333888",
+                "n_utente": "234543233",
+                "antecedentes": [
+                    "Presidiários",
+                    "Doença cardíaca leve"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-01-30"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Henrique Lopes",
+                "data_nascimento": "1981-05-18",
+                "sexo": "Masculino",
+                "regiao": "Veldora",
+                "contacto": "928112233",
+                "n_utente": "234543234",
+                "antecedentes": [
+                    "Presidiários",
+                    "Fumantes crônicos"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-02-13"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Tatiane Alves",
+                "data_nascimento": "1985-11-19",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "927999111",
+                "n_utente": "234543235",
+                "antecedentes": [
+                    "Presidiários",
+                    "Contato direto com pacientes com tuberculose ativa"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-04-08"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Luís Nascimento",
+                "data_nascimento": "1987-03-17",
+                "sexo": "Masculino",
+                "regiao": "Veldora",
+                "contacto": "929333888",
+                "n_utente": "234543236",
+                "antecedentes": [
+                    "Presidiários",
+                    "Alcoólatras crónicos"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-03-01"
+                    }
+                ]
+            },
+            {
+                "nome_completo": "Simone Braga",
+                "data_nascimento": "1982-07-29",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "922888555",
+                "n_utente": "234543237",
+                "antecedentes": [
+                    "Presidiários",
+                    "Fibromialgia"
+                ],
+                "historico_vacinas": [
+                    {
+                        "vacina": "BCG",
+                        "data_aplicacao": "2025-05-14"
+                    }
+                ]
+            }
+        ],
+        "pacientes_naovacinados": [],
+        "pacientes_contactados": []
+    },
+    {
+        "campanha": "Vacinação em massa contra a Tuberculose",
+        "status": "Planeada",
+        "regiao": "Tarrakhan",
+        "publico_alvo": [
+            "Crianças até aos 5 anos",
+            "Populações indígenas",
+            "Outros (Fumantes e/ou alcólatras crónicos e contato direto com pacientes com tuberculose ativa)"
+        ],
+        "localizacao": [
+            "Unidade Básica de Saúde Central de Tarrakhan"
+        ],
+        "tipo": "Saúde - Tuberculose",
+        "data_inicio": "2025-04-01",
+        "data_fim": "2025-06-01",
+        "instituicao_responsavel": "Serviço de Saúde Pública de Tarrakhan",
+        "responsaveis": [
+            {
+                "nome": "Dr. Renato Carvalho",
+                "email": "renato.carvalho@ssp-tarrakhan.gov",
+                "telemóvel": 961234567
+            },
+            {
+                "nome": "Dra. Isabel Rocha",
+                "email": "isabel.rocha@ssp-tarrakhan.gov",
+                "telemóvel": 968765432
+            }
+        ],
+        "parceiros": [
+            "Cruz Vermelha Internacional",
+            "Fundação Tarrakhan para a Saúde"
+        ],
+        "vacinas_utilizadas": [
+            {
+                "vacina_utilizada": "BCG",
+                "número_disponível": 27
+            }
+        ],
+        "objetivos": [
+            "Impedir o aumento de casos de tuberculose na região",
+            "Promover a conscientização sobre prevenção em comunidades rurais"
+        ],
+        "metodologia_divulgacao": [
+            "Carros de som nas vilas",
+            "Panfletos distribuídos em escolas e feiras",
+            "Anúncios em rádio e WhatsApp comunitário"
+        ],
+        "orcamento": {
+            "valor_total_eur": 180000,
+            "fontes_financiamento": [
+                "Governo Regional de Tarrakhan",
+                "ONGs locais"
+            ]
+        },
+        "resultados_esperados": [
+            "Vacinação de pelo menos 90% do grupo-alvo",
+            "Identificação de casos ativos para tratamento precoce",
+            "Aumento da adesão aos programas de saúde preventiva"
+        ],
+        "pacientes_vacinados": [],
+        "pacientes_naovacinados": [],
+        "pacientes_contactados": [
+            {
+                "nome_completo": "Letícia Rodrigues",
+                "data_nascimento": "2001-02-04",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "925735986",
+                "n_utente": "234096453",
+                "antecedentes": [
+                    "Alcoólatras crónicos",
+                    "Fumantes crônicos",
+                    "Contato direto com pacientes com tuberculose ativa",
+                    "Problemas renais",
+                    "Diabetes",
+                    "Populações indígenas",
+                    "Pressão alta"
+                ],
+                "historico_vacinas": []
+                },  {
+        "nome_completo": "Lucas Alves",
+        "data_nascimento": "2020-04-30",
+        "sexo": "Masculino",
+        "regiao": "Veldora",
+        "contacto": "921001001",
+        "n_utente": "300000001",
+        "antecedentes": [],
+        "historico_vacinas": []
+    },
+    {
+        "nome_completo": "Mariana Costa",
+        "data_nascimento": "2021-07-15",
+        "sexo": "Feminino",
+        "regiao": "Tarrakhan",
+        "contacto": "921001002",
+        "n_utente": "300000002",
+        "antecedentes": [],
+        "historico_vacinas": []
+    },
+    {
+        "nome_completo": "João Victor Barros",
+        "data_nascimento": "2020-10-02",
+        "sexo": "Masculino",
+        "regiao": "Sefir",
+        "contacto": "921001003",
+        "n_utente": "300000003",
+        "antecedentes": [],
+        "historico_vacinas": []
+    }, {
+    "nome_completo": "Ayla Tupinambá",
+    "data_nascimento": "2003-12-20",
+    "sexo": "Feminino",
+    "regiao": "Almaz",
+    "contacto": "921001004",
+    "n_utente": "300000004",
+    "antecedentes": ["Populações indígenas"],
+    "historico_vacinas": []
+  },
+  {
+    "nome_completo": "Caio Pataxó",
+    "data_nascimento": "2012-08-08",
+    "sexo": "Masculino",
+    "regiao": "Marhaya",
+    "contacto": "921001005",
+    "n_utente": "300000005",
+    "antecedentes": ["Populações indígenas"],
+    "historico_vacinas": []
+  },
+  {
+    "nome_completo": "Sofia Guarani",
+    "data_nascimento": "1997-02-11",
+    "sexo": "Feminino",
+    "regiao": "Veldora",
+    "contacto": "921001006",
+    "n_utente": "300000006",
+    "antecedentes": ["Populações indígenas"],
+    "historico_vacinas": []
+  },  {
+    "nome_completo": "Gabriel Amorim",
+    "data_nascimento": "2013-03-22",
+    "sexo": "Masculino",
+    "regiao": "Almaz",
+    "contacto": "921001007",
+    "n_utente": "300000007",
+    "antecedentes": ["Contato direto com pacientes com tuberculose ativa"],
+    "historico_vacinas": []
+  },
+  {
+    "nome_completo": "Fernando Oliveira",
+    "data_nascimento": "1985-06-29",
+    "sexo": "Masculino",
+    "regiao": "Marhaya",
+    "contacto": "921001008",
+    "n_utente": "300000008",
+    "antecedentes": ["Fumantes crônicos"],
+    "historico_vacinas": []
+  },
+  {
+    "nome_completo": "Patrícia Duarte",
+    "data_nascimento": "2001-01-14",
+    "sexo": "Feminino",
+    "regiao": "Sefir",
+    "contacto": "921001009",
+    "n_utente": "300000009",
+    "antecedentes": ["Alcoólatras crónicos"],
+    "historico_vacinas": []
+  }
+        ]
+    },
+    {
+        "campanha": "Dose de Vida: Contra a tuberculose!",
+        "status": "Em andamento",
+        "regiao": "Marhaya",
+        "publico_alvo": [
+            "Profissionais de saúde",
+            "Outros (Fumantes e/ou alcólatras crónicos e contato direto com pacientes com tuberculose ativa)"
+        ],
+        "localizacao": [
+            "Centro de Saúde Marhaya"
+        ],
+        "tipo": "Saúde - Tuberculose",
+        "data_inicio": "2025-01-15",
+        "data_fim": "2025-03-15",
+        "instituicao_responsavel": "Serviço Regional de Saúde de Sefir",
+        "responsaveis": [
+            {
+                "nome": "Dra. Mónica Sequeira",
+                "email": "monica.sequeira@saude.gov",
+                "telemóvel": 967827937
+            },
+            {
+                "nome": "Dr. Tiago Fernandes",
+                "email": "tiago.fernandes@saude.gov",
+                "telemóvel": 962418076
+            }
+        ],
+        "parceiros": [
+            "Organização Mundial da Saúde",
+            "Associação Sefir pela Saúde Pública"
+        ],
+        "vacinas_utilizadas": [
+            {
+                "vacina_utilizada": "BCG",
+                "número_disponível": 20
+            }
+        ],
+        "objetivos": [
+            "Reduzir a taxa de incidência da tuberculose em adultos",
+            "Aumentar a cobertura vacinal na população adulta de Sefir"
+        ],
+        "metodologia_divulgacao": [
+            "Campanhas nas redes sociais",
+            "Cartazes em centros de saúde e transportes públicos",
+            "Rádio local e SMS"
+        ],
+        "orcamento": {
+            "valor_total_eur": 150000,
+            "fontes_financiamento": [
+                "Governo Regional",
+                "Doações da OMS"
+            ]
+        },
+        "resultados_esperados": [
+            "Cobertura vacinal superior a 85%",
+            "Aumento de 30% no conhecimento da população sobre a tuberculose",
+            "Redução dos casos de tuberculose em adultos em 20% no prazo de um ano"
+        ],
+        "pacientes_vacinados": [],
+        "pacientes_naovacinados": [],
+        "pacientes_contactados": []
+    },
+    {
+        "campanha": "Almaz vacina",
+        "status": "Em andamento",
+        "regiao": "Almaz",
+        "publico_alvo": [
+            "Populações indígenas",
+            "Crianças até aos 5 anos"
+        ],
+        "localizacao": [
+            "Centro de Saúde Almaz"
+        ],
+        "tipo": "Saúde - Tuberculose",
+        "data_inicio": "2024-01-15",
+        "data_fim": "2025-06-19",
+        "instituicao_responsavel": "Serviço Regional de Saúde de Almaz",
+        "responsaveis": [
+            {
+                "nome": "Dra. Mónica Sequeira",
+                "email": "monica.sequeira@saude.gov",
+                "telemóvel": 967827937
+            },
+            {
+                "nome": "Dr. Tiago Fernandes",
+                "email": "tiago.fernandes@saude.gov",
+                "telemóvel": 962418076
+            }
+        ],
+        "parceiros": [
+            "Organização Mundial da Saúde",
+            "Associação Almaz pela Saúde Pública"
+        ],
+        "vacinas_utilizadas": [
+            {
+                "vacina_utilizada": "BCG",
+                "número_disponível": 1500
+            }
+        ],
+        "objetivos": [
+            "Reduzir a taxa de incidência da tuberculose em adultos",
+            "Aumentar a cobertura vacinal na população adulta de Almaz"
+        ],
+        "metodologia_divulgacao": [
+            "Campanhas nas redes sociais",
+            "Cartazes em centros de saúde e transportes públicos",
+            "Rádio local e SMS"
+        ],
+        "orcamento": {
+            "valor_total_eur": 150000,
+            "fontes_financiamento": [
+                "Governo Regional",
+                "Doações da OMS"
+            ]
+        },
+        "resultados_esperados": [
+            "Cobertura vacinal superior a 85%",
+            "Aumento de 30% no conhecimento da população sobre a tuberculose",
+            "Redução dos casos de tuberculose em adultos em 20% no prazo de um ano"
+        ],
+        "pacientes_vacinados": [],
+        "pacientes_naovacinados": [],
+        "pacientes_contactados": []
+    },
+    {
+        "campanha": "Imuniza Sefir: Programa Nacional",
+        "status": "Em andamento",
+        "regiao": "Sefir",
+        "publico_alvo": [
+            "Pessoas em situação de rua",
+            "Outros (Fumantes e/ou alcólatras crónicos e contato direto com pacientes com tuberculose ativa)"
+        ],
+        "localizacao": [
+            "Centro de Saúde Sefir"
+        ],
+        "tipo": "Saúde - Tuberculose",
+        "data_inicio": "2025-08-15",
+        "data_fim": "2025-10-18",
+        "instituicao_responsavel": "Serviço Regional de Saúde de Almaz",
+        "responsaveis": [
+            {
+                "nome": "Dra. Guida Sequeira",
+                "email": "guida.sequeira@saude.gov",
+                "telemóvel": 967827937
+            },
+            {
+                "nome": "Dr. João Fernandes",
+                "email": "joao.fernandes@saude.gov",
+                "telemóvel": 962418076
+            }
+        ],
+        "parceiros": [
+            "Organização Mundial da Saúde",
+            "Associação Marhaya pela Saúde Pública"
+        ],
+        "vacinas_utilizadas": [
+            {
+                "vacina_utilizada": "BCG",
+                "número_disponível": 1088
+            }
+        ],
+        "objetivos": [
+            "Reduzir a taxa de incidência da tuberculose",
+            "Aumentar a cobertura vacinal"
+        ],
+        "metodologia_divulgacao": [
+            "Campanhas nas redes sociais",
+            "Cartazes em transportes públicos",
+            "Rádio local, TV e SMS"
+        ],
+        "orcamento": {
+            "valor_total_eur": 159080,
+            "fontes_financiamento": [
+                "Governo",
+                "Doações de um fundo europeu"
+            ]
+        },
+        "resultados_esperados": [
+            "Cobertura vacinal superior a 65%",
+            "Aumento de 60% no conhecimento da população sobre a tuberculose",
+            "Redução dos casos de tuberculose"
+        ],
+        "pacientes_vacinados": [],
+        "pacientes_naovacinados": [],
+        "pacientes_contactados": []
+    },
+    {
+        "campanha": "Vacinação complementar para grupos de risco não carcerários",
+        "status": "Planeada",
+        "regiao": "Marhaya",
+        "publico_alvo": [
+            "Outros (Fumantes e/ou alcólatras crónicos e contato direto com pacientes com tuberculose ativa)",
+            "Profissionais de saúde",
+            "Crianças até aos 5 anos"
+        ],
+        "localizacao": [
+            "Centros de Saúde Regionais",
+            "Unidades Móveis de Vacinação"
+        ],
+        "tipo": "Saúde - Tuberculose",
+        "data_inicio": "2025-06-01",
+        "data_fim": "2025-08-01",
+        "instituicao_responsavel": "Direção Nacional de Saúde Pública",
+        "responsaveis": [
+            {
+                "nome": "Dra. Carla Monteiro",
+                "email": "carla.monteiro@dsp.gov",
+                "telemóvel": 932123987
+            }
+        ],
+        "parceiros": [
+            "Cruz Vermelha",
+            "Organização Mundial da Saúde"
+        ],
+        "vacinas_utilizadas": [
+            {
+                "vacina_utilizada": "BCG",
+                "número_disponível": 2000
+            }
+        ],
+        "objetivos": [
+            "Reforçar a imunização de grupos de risco não institucionalizados",
+            "Reduzir a propagação comunitária da tuberculose"
+        ],
+        "metodologia_divulgacao": [
+            "Campanhas em escolas e centros comunitários",
+            "Anúncios em redes sociais e rádio regional"
+        ],
+        "orcamento": {
+            "valor_total_eur": 100000,
+            "fontes_financiamento": [
+                "Governo Central",
+                "Parcerias com ONGs"
+            ]
+        },
+        "resultados_esperados": [
+            "Cobertura vacinal de 90% entre os identificados como elegíveis",
+            "Maior vigilância ativa da tuberculose em comunidades vulneráveis"
+        ],
+        "pacientes_vacinados": [],
+        "pacientes_naovacinados": [],
+        "pacientes_contactados": [
+            {
+                "nome_completo": "Marta Capa",
+                "data_nascimento": "2023-04-02",
+                "sexo": "Feminino",
+                "regiao": "Sefir",
+                "contacto": "925342654",
+                "n_utente": "234765098",
+                "antecedentes": [
+                    "Contato direto com pacientes com tuberculose ativa"
+                ],
+                "historico_vacinas": []
+            },
+            {
+                "nome_completo": "Elisabete Rodrigues",
+                "data_nascimento": "2001-06-02",
+                "sexo": "Feminino",
+                "regiao": "Veldora",
+                "contacto": "867435208",
+                "n_utente": "234986543",
+                "antecedentes": [
+                    "Alcoólatras crónicos"
+                ],
+                "historico_vacinas": []
+            }
+        ]
+    }
+]
